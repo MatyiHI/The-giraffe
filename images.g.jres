@@ -4,6 +4,11 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "Giraffe"
     },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAFBQAAAAAAAFVVAAAAAAAAUF9VVf9fVQBQVVVV9VVVAFBVVfVVVV8AUF9VVVVVVQBVVQAAAABVAAUFAAAAAFUAAAAAAAAAXwAAAAAAAAD/AAAAAAAAAP8AAAAAAAAA/wAAAAAAAABQAAAAAAAAAFAAAAAAAAAABQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",
